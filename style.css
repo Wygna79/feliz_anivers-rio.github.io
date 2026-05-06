@@ -1,5 +1,5 @@
 body {
-  background: linear-gradient(135deg, #ffdde1, #EC7963);
+  background: linear-gradient(#EC7963);
   font-family: Arial, sans-serif;
   text-align: center;
   margin: 0;
@@ -11,7 +11,7 @@ body {
 }
 
 h1 {
-  color: #ff4d6d;
+  color: #ec6363;
   font-size: 2.5em;
 }
 
